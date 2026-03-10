@@ -1,0 +1,8 @@
+msgspec==0.20.0
+diffusers
+opencv-python
+onnxruntime
+math_verify
+antlr4-python3-runtime
+wandb
+vllm==0.10.1.1
